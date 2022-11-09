@@ -1,0 +1,28 @@
+.lalo{
+
+    object-fit:contain;
+    width: 600px;
+    height: 600px;
+    padding-top: 50px;
+}
+.lala{
+
+    color:aliceblue;
+    text-shadow: 7px 4px 5px black;
+    
+}
+.imglalo{
+ height: 200px;
+ width: 200px; 
+ align-items: center; 
+ 
+}
+.h2lalo{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    color:red;
+   
+
+
+}
